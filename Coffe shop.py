@@ -8,7 +8,7 @@ menu={
 
 }
 
-print("Welcome to BMukto Coffe Shop")
+print("Welcome to BMukto Coffee Shop")
 
 print("Menu:")
 for item,price in menu.items():
