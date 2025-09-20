@@ -14,5 +14,10 @@ Calculates the total bill based on selected items.
 
 Handles invalid orders (items not on the menu).
 
+### Output
+
+<img width="745" height="415" alt="image" src="https://github.com/user-attachments/assets/0a2c74de-eb02-4770-9818-267a51694857" />
+
+
 
 
